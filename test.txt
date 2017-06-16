@@ -1,3 +1,4 @@
 Git
 Create a new branch.
-quick & simple.
+<<<<<<< HEAD
+quick and simple.
