@@ -1,5 +1,5 @@
 Git
 Create a new branch.
 <<<<<<< HEAD
-quick and simple.
+quick & simple.
 aa
